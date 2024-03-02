@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Joseph Oswalt</h1>
-<h3 align="center">A passionate full stack developer from Indiana</h3>
+<h3 align="center">I am an emerging Full Stack web developer with professional certification from The University of Texas at Austin. I successfully completed the course at the top of my class in April 2024, showcasing a passion for creating interactive user experiences. Prior to transitioning into web development, I have honed my skills in audio production through extensive work in live event environments, demonstrating a strong blend of technical proficiency and creative problem-solving abilities.</h3>
 
 - 📫 How to reach me **josephoswalt95@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/joseph-oswalt/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/joseph-oswalt/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/joseph-oswalt/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/joseph-oswalt/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
