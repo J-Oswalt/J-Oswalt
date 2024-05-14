@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Joseph Oswalt</h1>
 <h3 align="center">I am an emerging Full Stack web developer with professional certification from The University of Texas at Austin. I successfully completed the course at the top of my class in May 2024, showcasing a passion for creating interactive user experiences.</h3>
 
-- 👨‍💻 My portfolio [www.oswaltdev.com](www.oswaltdev.com)
+- 👨‍💻 My portfolio **www.oswaltdev.com**
 
 - 📫 How to reach me **josephoswalt95@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/https://codepen.io/josephoswalt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/josephoswalt" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/joseph-oswalt/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/joseph-oswalt/" height="30" width="40" /></a>
+<a href="https://codepen.io/josephoswalt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/josephoswalt" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/joseph-oswalt/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/joseph-oswalt/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
